@@ -2,7 +2,7 @@
 this project is designed to solve two kinds of puzzles CROSSWORD and SUDOKU 
 
 THE GIVEN PROGRAMM IS USER FIRENDLY 
-you can download the source code and run it 
+you can download the source code and run it \n 
 No prior set up is required 
 you can run it on any IDE 
 
